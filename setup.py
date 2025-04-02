@@ -31,7 +31,6 @@ setup(
         "jsonschema==4.23.0",
         "jsonschema-specifications==2024.10.1",
         "keyring==25.6.0",
-        "logging==0.4.9.6",
         "markdown-it-py==3.0.0",
         "mdurl==0.1.2",
         "more-itertools==10.5.0",
